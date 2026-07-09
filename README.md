@@ -1,5 +1,4 @@
 # ntp-http-sync
-# ntp-http-sync
 
 A script to correct the Windows system clock using HTTPS only, for environments where NTP (UDP/123) is blocked by a firewall.
 
